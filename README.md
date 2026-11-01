@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **ClaudeBar for Windows is now [Muesca](https://github.com/Yovancas/muesca).** New downloads, updates and issues live there.
+> If you have ClaudeBar 0.3.9 installed, it updates itself to Muesca: your settings and hooks are kept.
+> **ClaudeBar for Windows ahora es [Muesca](https://github.com/Yovancas/muesca).** Las descargas, actualizaciones e issues nuevas están allí.
+
 <h1 align="center">ClaudeBar for Windows</h1>
 
 <p align="center"><em><a href="README.es.md">Español</a></em></p>
